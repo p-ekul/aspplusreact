@@ -10,9 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/lab": "^5.0.0-alpha.170",
+    "@mui/material": "^5.15.15",
+    "@mui/x-date-pickers": "^7.2.0",
     "@supabase/auth-helpers-react": "^0.5.0",
     "@supabase/supabase-js": "^2.42.3",
+    "dayjs": "^1.11.10",
     "react": "^18.2.0",
+    "react-datetime-picker": "^5.6.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
