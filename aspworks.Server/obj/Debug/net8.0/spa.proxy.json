@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\pekul\\OneDrive\\바탕 화면\\personal\\code\\aspworks\\aspworks.Server\\..\\aspworks.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

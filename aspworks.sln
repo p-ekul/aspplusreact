@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspworks.Server", "aspworks.Server\aspworks.Server.csproj", "{D1695E87-A211-4B40-A6BD-8B61B3D183F2}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "aspworks.client", "aspworks.client\aspworks.client.esproj", "{6A676C72-1D31-4A66-9E63-6822DF9E3A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1695E87-A211-4B40-A6BD-8B61B3D183F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1695E87-A211-4B40-A6BD-8B61B3D183F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1695E87-A211-4B40-A6BD-8B61B3D183F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1695E87-A211-4B40-A6BD-8B61B3D183F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A676C72-1D31-4A66-9E63-6822DF9E3A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A676C72-1D31-4A66-9E63-6822DF9E3A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A676C72-1D31-4A66-9E63-6822DF9E3A86}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6A676C72-1D31-4A66-9E63-6822DF9E3A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A676C72-1D31-4A66-9E63-6822DF9E3A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A676C72-1D31-4A66-9E63-6822DF9E3A86}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7BCD647-1350-4F74-9C85-8DCEBEEA4405}
+	EndGlobalSection
+EndGlobal
