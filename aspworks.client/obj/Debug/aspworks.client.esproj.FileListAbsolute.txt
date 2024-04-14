@@ -1,0 +1,2 @@
+C:\Users\pekul\OneDrive\바탕 화면\personal\code\aspworks\aspworks.client\obj\Debug\aspworks.client.esproj.CoreCompileInputs.cache
+G:\code\aspplusreact\aspworks.client\obj\Debug\aspworks.client.esproj.CoreCompileInputs.cache

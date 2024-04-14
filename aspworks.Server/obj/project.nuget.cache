@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Shmz9c4VLM3+BmDCFtc7vMaa8gY6AG6YH9nDDA0TnKj+3rLEkTaD5mEPDq8pXCEv5Q5m6blGQJzNkw7GoAskew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pekul\\OneDrive\\바탕 화면\\personal\\code\\aspworks\\aspworks.Server\\aspworks.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pekul\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.4\\microsoft.aspnetcore.spaproxy.8.0.4.nupkg.sha512",
+    "C:\\Users\\pekul\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\pekul\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pekul\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\pekul\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\pekul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\pekul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
